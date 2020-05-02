@@ -1,0 +1,15 @@
+C:\Users\LUCAS-INFOPUBLIC\source\repos\01052020Entity\01052020Entity\bin\Debug\01052020Entity.exe.config
+C:\Users\LUCAS-INFOPUBLIC\source\repos\01052020Entity\01052020Entity\bin\Debug\01052020Entity.exe
+C:\Users\LUCAS-INFOPUBLIC\source\repos\01052020Entity\01052020Entity\bin\Debug\01052020Entity.pdb
+C:\Users\LUCAS-INFOPUBLIC\source\repos\01052020Entity\01052020Entity\bin\Debug\EntityFramework.dll
+C:\Users\LUCAS-INFOPUBLIC\source\repos\01052020Entity\01052020Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LUCAS-INFOPUBLIC\source\repos\01052020Entity\01052020Entity\bin\Debug\EntityFramework.xml
+C:\Users\LUCAS-INFOPUBLIC\source\repos\01052020Entity\01052020Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LUCAS-INFOPUBLIC\source\repos\01052020Entity\01052020Entity\obj\Debug\01052020Entity.csprojAssemblyReference.cache
+C:\Users\LUCAS-INFOPUBLIC\source\repos\01052020Entity\01052020Entity\obj\Debug\01052020Entity.csproj.CoreCompileInputs.cache
+C:\Users\LUCAS-INFOPUBLIC\source\repos\01052020Entity\01052020Entity\obj\Debug\01052020Entity.csproj.CopyComplete
+C:\Users\LUCAS-INFOPUBLIC\source\repos\01052020Entity\01052020Entity\obj\Debug\01052020Entity.exe
+C:\Users\LUCAS-INFOPUBLIC\source\repos\01052020Entity\01052020Entity\obj\Debug\01052020Entity.pdb
+C:\Users\LUCAS-INFOPUBLIC\source\repos\01052020Entity\01052020Entity\obj\Debug\_01052020Entity.Migrations.InitialCreate.resources
+C:\Users\LUCAS-INFOPUBLIC\source\repos\01052020Entity\01052020Entity\obj\Debug\01052020Entity.csproj.GenerateResource.cache
+C:\Users\LUCAS-INFOPUBLIC\source\repos\01052020Entity\01052020Entity\obj\Debug\_01052020Entity.Migrations.Deletandoaconvençaodocascatadelete.resources
